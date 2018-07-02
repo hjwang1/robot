@@ -1,6 +1,6 @@
-请把相应的库下载到这里
+###vcglib库自行下载
 下载地址：https://github.com/cnr-isti-vclab/vcglib/
-请遵循其开源协议GNU General Public License v3.0
+*请遵循其开源协议GNU General Public License v3.0*
 
 robot/vcglib目录里，存储如下的目录结构：
 * robot/vcglib/apps
