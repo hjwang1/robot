@@ -1,0 +1,14 @@
+{
+   "threshold" : 1000,
+   "filter_minz" : 600,
+   "filter_maxz" : 1000,
+   "filter_miny" : -200,
+   "filter_maxy" : 200,
+   "filter_minx" : -200,
+   "filter_maxx" : 200,
+   "distance" : 10.1,
+   "Niters" : 5,
+   "key_i" : 1,
+   "inf_i" : 3,
+   "sup_i" : 6
+}
