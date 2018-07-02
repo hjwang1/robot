@@ -40,12 +40,13 @@
 
 #### 2.3. 编译（compile and build）
 已经自带了CMakeList.txt文件，通过cmake工具编译构建
-<p>进入robot目录</p>
+* 进入robot目录
 <pre><code>
 mkdir build
 cd build
 cmake ..
 </code></pre>
+* 编译后生成可执行程序：visdetectpoisson
 
 #### 2.4. 配置文件
 ###### 2.4.1.scancrawler.json
