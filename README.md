@@ -36,6 +36,7 @@
 * jsoncpp，本目录下的子目录distrib里自带了1.8版本，MIT license
 * openmesh，本目录下的子目录distrib里自带了6.3版本，BSD license
 * eigen3，本目录下的子目录distrib里自带了，MPL2 license
+* poisson reconstruction10.02，本目录下的子目录distrib里自带了，MIT license
 
 #### 2.3. 编译（compile and build）
 已经自带了CMakeList.txt文件，通过cmake工具编译构建
@@ -47,7 +48,30 @@ cmake ..
 </code></pre>
 
 #### 2.4. 配置文件
+###### 2.4.1.scancrawler.json
+* src:字符串，3D点云文件的前辍，格式是：前辍+序号+“.ply”，
+* filtered:滤波后的3D点云文件的前辍，格式是：前辍+序号+“.ply”，
+* import:最终处理结果JSON文件的前辍，格式是：前辍+序号+时间戳+“.json”，
+* startindex:3D点云文件批量文件的连续序号的最小值
+* endindex:3D点云文件批量文件的连续序号的最大值
+* directed_by:3D点云文件的创造者
+* id:3D点云文件的唯一识别号
+* initial_release_date:3D点云文件的生成日期
+* name:3D点云文件所代表的物体的名称
+* content: 3D点云文件所代表物体的概要描述
+* lenth_d: 3D点云文件所代表物体的长度
+* width_d: 3D点云文件所代表物体的宽度
+* height_d: 3D点云文件所代表物体的高度
+* vsize_d: 3D点云文件所代表物体的体积
+* vprefix_s: 3D点云文件所代表物体的类别号
+* vsuffix_s: 3D点云文件所代表物体的类别号
+* shap: 3D点云文件所代表物体的形状
+* color: 3D点云文件所代表物体的颜色
+* material: 3D点云文件所代表物体的材质
+* phase: 3D点云文件所代表物体的相态
+* note: 其他备注
 
+###### 2.4.2.scaninfo.json
 
 #### 2.5. 运行测试
 # 视觉感知算法原理
