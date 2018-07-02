@@ -37,6 +37,7 @@
 * openmesh，本目录下的子目录distrib里自带了6.3版本，BSD license
 * eigen3，本目录下的子目录distrib里自带了，MPL2 license
 * poisson reconstruction10.02，本目录下的子目录distrib里自带了，MIT license
+* triangle，可选库libtriangle_shared
 
 #### 2.3. 编译（compile and build）
 已经自带了CMakeList.txt文件，通过cmake工具编译构建
