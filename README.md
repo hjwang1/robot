@@ -11,6 +11,9 @@
 * TOF Sensor
 * 双目视觉Sensor
 
+#### 视觉感知结果
+![image](http://github.com/hjwang1/robot/raw/master/img/perceptions.png)
+
 #### 算法的概要处理流程
 * 已经拿到物体或场景的三维点云数据，格式是PLY
 * 降噪滤波等预处理
