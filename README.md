@@ -17,4 +17,10 @@
 * 曲面triangle mesh重建
 * 多分辨率视觉感知处理
 * matlab可视化查看处理结果
-> 备注：本人是用Orbbec的3D结构光Sensor采集，也可以使用微软的kinect、Intel的RealSense等，也可以用业界公开的点云数据进行测试使用；曲面重建的方法可以用Delauney三角剖分、Poisson等方法；matlab可视化查看源码是简单些，有特别需求的研究者可自行编写。
+> 备注：本人是用Orbbec的3D结构光Sensor采集，3D Sensor与OPPO Find X手机同款，也可以使用微软的kinect、Intel的RealSense等，也可以用业界公开的点云数据进行测试使用；曲面重建的方法可以用Delauney三角剖分、Poisson等方法，有能力研究者可以使用更好的曲面重建算法自行替代；matlab可视化查看源码是简单些，有特别需求的研究者可自行根据所求编写。
+
+# 结果展示
+
+# 使用步骤
+
+# 视觉感知算法原理
