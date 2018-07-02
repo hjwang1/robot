@@ -1,4 +1,4 @@
-###vcglib库自行下载
+### vcglib库自行下载
 下载地址：https://github.com/cnr-isti-vclab/vcglib/
 *请遵循其开源协议GNU General Public License v3.0*
 
