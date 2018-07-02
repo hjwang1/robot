@@ -10,3 +10,4 @@ robot/vcglib目录里，存储如下的目录结构：
 * robot/vcglib/vcb
 * robot/vcglib/wrap
 * robot/vcglib/LICENSE.txt
+* robot/vcglib/readme.md
