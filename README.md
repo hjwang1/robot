@@ -50,15 +50,18 @@ cmake ..
 
 #### 2.4. 配置文件
 ###### 2.4.1.scancrawler.json
-* src:字符串，3D点云文件的前辍，格式是：前辍+序号+“.ply”，
-* filtered:滤波后的3D点云文件的前辍，格式是：前辍+序号+“.ply”，
-* import:最终处理结果JSON文件的前辍，格式是：前辍+序号+时间戳+“.json”，
-* startindex:3D点云文件批量文件的连续序号的最小值
-* endindex:3D点云文件批量文件的连续序号的最大值
-* directed_by:3D点云文件的创造者
-* id:3D点云文件的唯一识别号
-* initial_release_date:3D点云文件的生成日期
-* name:3D点云文件所代表的物体的名称
+* srcdir: 待处理3D点云文件的所在目录
+* src: 字符串，3D点云文件的前辍，格式是：前辍+序号+“.ply”，
+* filterdir: 滤波后的3D点云文件的所在目录
+* filtered: 滤波后的3D点云文件的前辍，格式是：前辍+序号+“.ply”，
+* importdir: 最终处理结果JSON文件的所在目录
+* import: 最终处理结果JSON文件的前辍，格式是：前辍+序号+时间戳+“.json”，
+* startindex: 3D点云文件批量文件的连续序号的最小值
+* endindex: 3D点云文件批量文件的连续序号的最大值
+* directed_by: 3D点云文件的创造者
+* id: 3D点云文件的唯一识别号
+* initial_release_date: 3D点云文件的生成日期
+* name: 3D点云文件所代表的物体的名称
 * content: 3D点云文件所代表物体的概要描述
 * lenth_d: 3D点云文件所代表物体的长度
 * width_d: 3D点云文件所代表物体的宽度
