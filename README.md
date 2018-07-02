@@ -38,8 +38,8 @@
 #### 2.3. 编译（compile and build）
 已经自带了CMakeList.txt文件，通过cmake工具编译构建
 <p>进入robot目录</p>
-<pre><code>mkdir build
-    cd build
+> <pre><code>mkdir build
+cd build
 cmake ..
 </code></pre>
 
