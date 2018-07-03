@@ -92,7 +92,7 @@ cmake ..
 
 ###### 2.4.2.scaninfo.json
 * threshold: 连通点云的最小顶点数
-* filter_*: 物体3D点云的三维Box切割
+* filter_*: 物体3D点云的三维Box边界切割
 * distance: triangle mesh中，edge的最大长度，在部分算法中使用此值
 * Niters: 对mesh平滑操作的次数，在部分算法中使用此值
 * key_i: 用哪一类特征数据参与算法计算，在部分算法中使用此值
