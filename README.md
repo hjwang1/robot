@@ -41,12 +41,14 @@
 * ubuntu16.04
 
 #### 2.2. 必要与可选库的安装
-* vcglib下载，可参考本目录下的子目录vcglib，里有详细说明
+* vcglib下载安装，可参考本目录下的子目录vcglib，里有详细说明
 * pcl，本目录下的子目录distrib里自带了1.8版本, BSD license
 * jsoncpp，本目录下的子目录distrib里自带了1.8版本，MIT license
 * openmesh，本目录下的子目录distrib里自带了6.3版本，BSD license
-* eigen3，本目录下的子目录distrib里自带了，MPL2 license
+* eigen3下载安装，可参考本目录下的子目录eigen3，里有详细说明，MPL2 license
 * poisson reconstruction10.02，本目录下的子目录distrib里自带了，MIT license
+* libaiethan.a，视觉感知的必要数据结构与基本算法库
+* libaiethantool.a，视觉感知必要算法库
 * triangle，可选库libtriangle_shared
 
 #### 2.3. 编译（compile and build）
