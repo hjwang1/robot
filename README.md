@@ -54,6 +54,7 @@
 
 #### 2.3. 编译（compile and build）
 已经自带了CMakeList.txt文件，lib库与头文件全部安装完成后，要合理配置CMakeList.txt文件，通过cmake工具编译构建
+请务必完整仔细阅读源码visdetectpoisson.cpp，合理修配置也相关参数
 * 进入robot目录
 <pre><code>
 mkdir build
