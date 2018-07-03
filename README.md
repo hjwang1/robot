@@ -14,7 +14,6 @@
 
 #### 1.3.人脸曲面重建(Surface reconstruction)
 ![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/snapshotHead00.png)
-![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/snapshotHead01.png)
 ![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/snapshotHead02.png)
 
 #### 1.4.手势曲面重建(Surface reconstruction)
