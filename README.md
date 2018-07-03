@@ -47,12 +47,13 @@
 * openmesh，本目录下的子目录distrib里自带了6.3版本，BSD license
 * eigen3下载安装，可参考本目录下的子目录eigen3，里有详细说明，MPL2 license
 * poisson reconstruction10.02，本目录下的子目录distrib里自带了，MIT license
-* libaiethan.a，视觉感知的必要数据结构与基本算法库
-* libaiethantool.a，视觉感知必要算法库
-* triangle，可选库libtriangle_shared
+* libaiethan.a，视觉感知的必要数据结构与基本算法库，本目录下的子目录distrib里自带
+* libaiethantool.a，视觉感知必要算法库，本目录下的子目录distrib里自带
+* triangle，可选库，libtriangle_shared，本目录下的子目录distrib里自带
+> 备注：本lib triangle 来自：http://www.cs.cmu.edu/~quake/triangle.html
 
 #### 2.3. 编译（compile and build）
-已经自带了CMakeList.txt文件，通过cmake工具编译构建
+已经自带了CMakeList.txt文件，lib库与头文件全部安装完成后，要合理配置CMakeList.txt文件，通过cmake工具编译构建
 * 进入robot目录
 <pre><code>
 mkdir build
