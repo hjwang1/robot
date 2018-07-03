@@ -2,7 +2,7 @@
 下载地址：https://github.com/cnr-isti-vclab/vcglib/
 *请遵循其开源协议GNU General Public License v3.0*
 
-robot/vcglib目录里，存储如下的目录结构：
+在本目录下完整安装vcglib，并在CMakeList.txt中合理配置，robot/vcglib目录里，存储如下的目录结构：
 * robot/vcglib/apps
 * robot/vcglib/docs
 * robot/vcglib/eigenlib
