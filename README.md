@@ -85,6 +85,7 @@ cmake ..
 * material: 3D点云文件所代表物体的材质
 * phase: 3D点云文件所代表物体的相态
 * note: 其他备注
+> 备注：对于如下的文件名“hjwhand-10004.ply”，前辍是“hjwhand-”，序号是“10004”
 
 ###### 2.4.2.scaninfo.json
 * threshold: 连通点云的最小顶点数
