@@ -127,14 +127,14 @@ double procrawl(Json::Value& jsoninfo, Json::Value& root, int index) {
   char* argvv[] = {"poissonrecon", "--in", const_cast<char*>(infile.c_str()),
     "--out", const_cast<char*>(outfile.c_str()),
     "--depth", "10", "--density"
-  };
+  };// --depth 10 means surface reconstruction precision, you may modify it
   hjwang(8, argvv);
   std::string trimfile = jsoninfo["filterdir"].asString()+jsoninfo["filtered"].asString()+jsoninfo["index"].asString()+"filterNormalMeshTrim.ply";
   char* trimv[] = {"surfacetrim", "--in", const_cast<char*>(outfile.c_str()),
     "--out", const_cast<char*>(trimfile.c_str()),
     "--smooth", "8",
     "--trim", "7"
-  };
+  };// --trim 7 means mesh-clean precision, you may modify it
   bing(9, trimv);
   
   // smooth mesh and save it in a file.
