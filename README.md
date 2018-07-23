@@ -25,13 +25,13 @@
 #### 1.6.视觉感知结果
 ![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/perceptions.png)
 ![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/facescomp.png)
-![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/2018-07-23 23-04-11vistracking-face.png)
+![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/20180723vistrackingface.png)
 * 不仅仅可以做3D人脸识别、手势识别，可延及一般性的物体检测、分割、识别、分类
 > 备注：上图中，红色曲线代表“一位妈妈的3D Face”，蓝色曲线代表“妈妈的孩子的3D Face”，曲线不同代表不同的人脸，绿色曲线代表玩具篮球，篮球的曲线与两条人脸曲线差距很大，从而可以把物体分类，人脸曲线的不同代表了不同的人，但是分布又比较近，可见是同一类。下图是三张3D人脸的分布图。
 
 #### 1.7.视觉检测&分割&识别&跟踪
 ![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/detectsegtrack.png)
-![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/2018-07-23 23-04-11vistracking-cube.png)
+![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/20180723vistrackingcube.png)
 
 #### 1.8.算法的概要处理流程
 * 已经拿到物体或场景的三维点云数据，格式是PLY
