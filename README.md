@@ -132,5 +132,5 @@ cmake ..
 #### 3.5. 视觉感知专利list
 10+个发明专利
 
-# 3.Android平台集成3D视觉SDK说明
+# 4.Android平台集成3D视觉SDK说明
 ![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/sdkspec.png)
