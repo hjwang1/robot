@@ -131,3 +131,6 @@ cmake ..
 无人驾驶、机器人、无人机、体感游戏、人脸检测、手势识别
 #### 3.5. 视觉感知专利list
 10+个发明专利
+
+# 3.Android平台集成3D视觉SDK说明
+![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/sdkspec.png)
