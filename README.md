@@ -137,5 +137,5 @@ cmake ..
 
 # 5.商业落地解决方案
 #### 5.1. 一种基于投影仪的任意多线&高精度智能化标线仪
-微信公众号：微分几何之视觉感知
-文章链接：https://mp.weixin.qq.com/s?__biz=MzU2NTE1ODgyMA==&tempkey=OTk4X3VXM0FOaDlCdjJOYkNWaGRMdVk2R09OdTl3SXFTRVNfeDJTQ3VhbnFObEt0emRrSlR6cE40dU5zR0dRV0lxQ3VMTWdJN19HNzd2Wk1EaEhWakFlVXVhcW91bVVGZzVHcTlfMDdiNzI1RUhFWl9aYmIwZG1CQ1ppWndtRFZpTFJpc0FPWDE1eEJpeWxuZ1Zna2RnbExSVDMwX1drZUZZMmV6UjMwZ3d%2Bfg%3D%3D&chksm=7cbeb7d34bc93ec52b4cbabbca36af2788a9ccb2e19b5ad1e51f6f293d570cf95b8c2970f4c3#rd
+* 微信公众号：微分几何之视觉感知
+* [文章链接](https://mp.weixin.qq.com/s?__biz=MzU2NTE1ODgyMA==&tempkey=OTk4X3VXM0FOaDlCdjJOYkNWaGRMdVk2R09OdTl3SXFTRVNfeDJTQ3VhbnFObEt0emRrSlR6cE40dU5zR0dRV0lxQ3VMTWdJN19HNzd2Wk1EaEhWakFlVXVhcW91bVVGZzVHcTlfMDdiNzI1RUhFWl9aYmIwZG1CQ1ppWndtRFZpTFJpc0FPWDE1eEJpeWxuZ1Zna2RnbExSVDMwX1drZUZZMmV6UjMwZ3d%2Bfg%3D%3D&chksm=7cbeb7d34bc93ec52b4cbabbca36af2788a9ccb2e19b5ad1e51f6f293d570cf95b8c2970f4c3#rd "一种基于投影仪的任意多线&高精度智能化标线仪")
