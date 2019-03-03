@@ -139,3 +139,8 @@ cmake ..
 #### 5.1. 一种基于投影仪的任意多线&高精度智能化标线仪
 * 微信公众号：微分几何之视觉感知
 * [文章链接](https://mp.weixin.qq.com/s?__biz=MzU2NTE1ODgyMA==&tempkey=OTk4X3VXM0FOaDlCdjJOYkNWaGRMdVk2R09OdTl3SXFTRVNfeDJTQ3VhbnFObEt0emRrSlR6cE40dU5zR0dRV0lxQ3VMTWdJN19HNzd2Wk1EaEhWakFlVXVhcW91bVVGZzVHcTlfMDdiNzI1RUhFWl9aYmIwZG1CQ1ppWndtRFZpTFJpc0FPWDE1eEJpeWxuZ1Zna2RnbExSVDMwX1drZUZZMmV6UjMwZ3d%2Bfg%3D%3D&chksm=7cbeb7d34bc93ec52b4cbabbca36af2788a9ccb2e19b5ad1e51f6f293d570cf95b8c2970f4c3#rd "一种基于投影仪的任意多线&高精度智能化标线仪")
+
+#### 5.2. 微型投影仪之任意形状的畸变矫正
+* 今日头条号：机器人视觉
+* [微型投影仪与3D视觉结合，会有什么样的落地应用](https://www.toutiao.com/i6636231189369717252/ "微型投影仪与3D视觉结合，会有什么样的落地应用")
+* [任意四边形畸变投影仪，如何做矩形矫正](http://www.365yg.com/i6636589331614007822/#mid=51140459241 "任意四边形畸变投影仪，如何做矩形矫正")
