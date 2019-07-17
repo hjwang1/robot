@@ -48,6 +48,8 @@
 详细参考本作另一开源GitHub：https://github.com/hjwang1/openglProjTexMap
 3D物体成像
 $$P_{obj} \to P_{world} \to P_{eye} \to P_{clip} \to P_{NDC} \to P_{window}$$
+![](http://latex.codecogs.com/gif.latex?\\sigma=\sqrt{\frac{1}{n}{\sum_{k=1}^n(x_i-\bar{x})^2}})
+
 不同物体表面的投影纹理：![image](https://raw.githubusercontent.com/hjwang1/openglProjTexMap/master/img/326238085.jpg)
 多视角观察投影：![image](https://raw.githubusercontent.com/hjwang1/openglProjTexMap/master/img/1189853088.jpg)
 
