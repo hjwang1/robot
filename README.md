@@ -44,6 +44,12 @@
 #### 1.9.落地应用案例
 ![image](https://raw.githubusercontent.com/hjwang1/robot/master/img/visioncase.jpg)
 
+#### 1.10.OpenGL投影纹理映射
+详细参考本作另一开源GitHub：https://github.com/hjwang1/openglProjTexMap
+
+不同物体表面的投影纹理：![image](https://raw.githubusercontent.com/hjwang1/openglProjTexMap/master/img/326238085.jpg)
+多视角观察投影：![image](https://raw.githubusercontent.com/hjwang1/openglProjTexMap/master/img/1189853088.jpg)
+
 # 2.使用步骤
 #### 2.1. 准备编译环境
 * ubuntu16.04 64位
