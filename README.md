@@ -47,8 +47,9 @@
 #### 1.10.OpenGL投影纹理映射
 详细参考本作另一开源GitHub：https://github.com/hjwang1/openglProjTexMap
 3D物体成像
-$P_{obj} \to P_{world} \to P_{eye} \to P_{clip} \to P_{NDC} \to P_{window}$
-![](http://latex.codecogs.com/gif.latex?\\P_{window})
+$$
+![](http://latex.codecogs.com/gif.latex?\\ P_{obj} \to P_{world} \to P_{eye} \to P_{clip} \to P_{NDC} \to P_{window})
+![](http://latex.codecogs.com/gif.latex?\ P_{obj} \to P_{world} \to P_{eye} \to P_{clip} \to P_{NDC} \to P_{window})
 
 不同物体表面的投影纹理：![image](https://raw.githubusercontent.com/hjwang1/openglProjTexMap/master/img/326238085.jpg)
 多视角观察投影：![image](https://raw.githubusercontent.com/hjwang1/openglProjTexMap/master/img/1189853088.jpg)
